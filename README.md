@@ -44,4 +44,11 @@
 - Social Engineering >> Fake Notification Bar
 ![Fake Notification Bar](Images/FakeNotificationBar.jpg)
 
--
+- Host >> Get Geolocation (Third Party)
+![Geolocation](Images/Getgeolocation.jpg)
+
+### Mitigation Strategies
+
+- Keeping the system up to date
+- Restoring the VM to its original state on a regular basis (once a week, or once a month)
+- Regularly change the password, assuming it was compromised
